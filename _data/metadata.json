@@ -1,9 +1,9 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "url": "https://eleventy-netlify-boilerplate.netlify.com",
+  "title": "Matt Davis' Work Blog",
+  "url": "https://www.logandavis.org",
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "github": "https://github.com/danurbanowicz"
+    "name": "Matthew Davis",
+    "email": "logandavis343@gmail.com",
+    "github": "https://github.com/logandavis343"
   }
 }
