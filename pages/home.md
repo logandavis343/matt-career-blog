@@ -1,9 +1,9 @@
 ---
-title: This Blog
+title: Matt Davis
 date: 2020-02-13T00:00:00.000Z
 permalink: /
 eleventyNavigation:
-  key: This Blog
+  key: About Me
   order: 0
 ---
 ![Matt Davis](/static/img/mattphoto.jpg "home-photo")
