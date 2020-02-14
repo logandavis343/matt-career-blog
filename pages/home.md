@@ -1,20 +1,23 @@
 ---
-layout: layouts/home.njk
-title: Home
-date: 2016-01-01T00:00:00.000Z
+title: Matt Davis
+date: 2020-02-13T00:00:00.000Z
 permalink: /
 eleventyNavigation:
-  key: Home
+  key: About Me
   order: 0
 ---
-# Welcome
+![Matt Davis](/static/img/mattphoto.jpg "home-photo")
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+## About me
+In the year 2000 I stumbled upon a forum while searching for cheat codes for my favorite video game. I made a post and when someone replied it fascinated me to no end. I immediately began building websites of my own and found employment doing the same thing seven years later at a company called Zeekee Interactive. I taught myself to code and advanced rapidly until things took a rapid turn downward.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+## What happened?
+I fell into substance abuse around the age of 24. It didn't take long for things to come apart. I lost nearly all of my professional relationships and burned every bridge I crossed with my reckless behavior. I continued to find jobs without resolving my biggest problem which further damaged my reputation and set me back more.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+## What's the purpose of this site?
+Things made a turn for the better! I have no desire to make my history with substance abuse a part of my identity but there is simply no way to hide the colossal impact of something that dominated so much of my adult life. 
 
-Or click the button below to deploy your own copy of this project to Netlify.
+I miss doing what I love for a living. Despite building dozens of websites for names like American Family Care and Rick & Bubba there is no longer evidence online that I built anything. I intend to change that here by recording my journey back into coding on [my blog page](https://www.logandavis.org/blog/). The posts will contain thoughts I have as I use the plethora of learning resources out there to refresh my memory of what I already understand and to learn new things. I will do my best to make them entertaining, but ultimately the point is to demonstrate my interest in coding and my ability to learn.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Thanks for checking in!
+
