@@ -24,6 +24,8 @@ body {
 
 main {
 	max-width: 37.5em;
+	background: rgb(9,21,57);
+	background: linear-gradient(0deg, rgba(9,21,57,1) 0%, rgba(0,212,255,1) 100%);
 }
 
 p,
@@ -45,6 +47,7 @@ header,
 main,
 footer {
 	padding: 1em;
+	text-align:center;
 }
 
 main {
