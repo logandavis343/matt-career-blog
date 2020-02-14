@@ -19,13 +19,13 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--turkey);
+	background: rgb(9,21,57);
+	background: linear-gradient(0deg, rgba(9,21,57,1) 0%, rgba(0,212,255,1) 100%);
+	color: white;
 }
 
 main {
 	max-width: 37.5em;
-	background: rgb(9,21,57);
-	background: linear-gradient(0deg, rgba(9,21,57,1) 0%, rgba(0,212,255,1) 100%);
 }
 
 p,
@@ -47,11 +47,18 @@ header,
 main,
 footer {
 	padding: 1em;
-	text-align:center;
 }
 
 main {
 	padding-bottom: 2em;
+}
+
+main .home {
+	text-align:center;
+}
+
+main .home img {
+	border-radius: 50%;
 }
 
 main :first-child,
