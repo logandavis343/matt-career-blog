@@ -1,7 +1,7 @@
 :root {
 	--turkey: #FFF0EB;
 	--white: white;
-	--blue: blue;
+	--blue: #004162;
 }
 
 *, *:before, *:after {
@@ -19,14 +19,13 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background: rgb(9,21,57);
-	background: linear-gradient(0deg, rgba(9,21,57,1) 0%, rgba(0,212,255,1) 100%);
-	color: white;
 	justify-content: center;
+	background-color: #004162;
 }
 
 main {
 	max-width: 37.5em;
+	background-color: white;
 }
 
 p,
@@ -35,8 +34,8 @@ code {
 	line-height: 1.5;
 }
 
-a[href],
-a[href]:visited {
+nav a[href],
+nav a[href]:visited {
 	color: var(--white);
 }
 
@@ -44,23 +43,35 @@ a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header,
-main,
+main a[href],
+main a[href]:visited {
+	color: #004162;
+}
+
+main a[href]:not(:hover) {
+	text-decoration: none;
+}
+
+header {
+	padding: 2em 2em 0em 2em;
+}
+
 footer {
-	padding: 1em;
+	padding: 2em;
 }
 
-main {
-	padding-bottom: 2em;
-}
-
-main .home {
+main img { 
+	margin: 0em .5em .5em .5em;
+	max-width: 100%;
+	  height: auto;
 	text-align:center;
 }
 
-main .home img {
-	border-radius: 50%;
-	width:50%
+main {
+	padding:1em;
+	box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.38);
+-webkit-box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.38);
+-moz-box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.38);
 }
 
 main :first-child,
@@ -89,15 +100,18 @@ pre {
 header > em {
 	display: block;
 	font-size: 2em;
-	margin: .67em 0;
+	margin: .67em 0 0 0;
 	font-weight: bold;
 	font-style: normal;
+	color:white;
+	text-align:center;
 }
 
 /* Header Nav */
 header nav ul {
 	padding: 0;
 	list-style: none;
+	text-align:center;
 }
 
 header nav ul :first-child {
