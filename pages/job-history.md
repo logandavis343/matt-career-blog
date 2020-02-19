@@ -36,4 +36,18 @@ Sometime in 2013 I had an interview with a local JRuby shop that asked me to bui
 
 ### The Dark Ages ( April 2014 - 2018 )
 
-In mid 2014 my mental health began to rapidly deteriorate. I had set the bar for myself incredibly high as a teenager, and I came to believe that I was a failure. More importantly I was taking extremely high doses of benzodiazepines every day. The combination of these two things caused me to fall deeper into depression, and as a result I quit my job at Luckie with little explanation. No one, including my family, had any idea what was going on. I began drinking alcohol with the benzodiazepines which caused me to black out regularly.
+In mid 2014 my mental health began to rapidly deteriorate. I had set the bar for myself incredibly high as a teenager, and I came to believe that I was a failure. More importantly I was taking extremely high doses of benzodiazepines every day. The combination of these two things caused me to fall deeper into depression, and as a result I quit my job at Luckie with little explanation. No one, including my family, had any idea what was going on. I began drinking alcohol with the benzodiazepines which caused me to black out regularly, and seizures from withdrawal were not uncommon. During these years I was either unemployed or working jobs not related to tech. By 2018 I had stopped abusing benzodiazepines but began drinking very heavily, replacing one addiction with another.
+
+### Provalus ( February 2018 - August 2018 )
+
+In February I found out about a free coding bootcamp provided by a company called Provalus in Brewton, AL. They have an interesting business model - outsourcing developers in small towns with a low cost of living to work remotely for U.S. companies. I would spend 40 hours a week training to become a full-stack developer for 9 weeks. At the end of the 9 weeks the three students with the highest grade would be paid a low wage to develop in-house applications until a client looking for development work could be located. 
+
+By now I had developed a fear that I might have damaged my mind to the point that I would be unable to get back into coding. I saw this as an opportunity to prove to myself otherwise, and I was very successful. I finished the bootcamp with the highest grade, and I had no difficulty learning to build web applications using C# and .NET Core. Unfortunately the wage they paid was not sufficient for me to live on my own and I moved back to Birmingham to search for a job. I didn't have any luck, but in retrospect that was for the best - without tackling my addiction I would have been setting myself up for failure.
+
+### Present Day
+
+By 2019 my alcoholism had progressed to a terrible point. My life revolved around drinking and nothing else, and my doctor made it clear that if I continued on that path it would kill me. After another withdrawal seizure I was broken. I finally conceded that I couldn't do it on my own and found help.
+
+At the time of writing this I have been free from substance abuse for several months for the first time in seven years. In addition to this blog and a portfolio I am training to become a manager at a local sandwich shop to demonstrate that I am capable of holding down a job with a variety of responsibilities. 
+
+The underlying issues that led me to start self-medicating have been treated, and I am happier now than I was even before I fell into addiction. I still love to code, and I have the same work ethic and ability to learn that I had when I first started. If you are an employer looking for someone with a strong drive to work and learn, give me a call at 205-919-6278 or email me at matt@logandavis.org. I am extremely eager to get back to doing what I love and you won't be disappointed!
