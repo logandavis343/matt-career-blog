@@ -21,6 +21,6 @@ After cloning the repo and installing dependencies I ran the command to build th
 
 This setup would have been ideal for so many of the websites we sold at Zeekee and would have saved us an enormous amount of time on the support side. If a client wanted to have the ability to edit their website we resorted to installing the proprietary CMS we used exclusively for years or wordpress, both of which were overkill for that purpose. Our customer support employees generally only understood how to work with HTML and CSS and would get lost when trying to make simple changes to Wordpress sites. The default CMS has two collections, pages and posts, which can be edited with a rich text/markdown editor. Adding a new collection type is as simple as adding a few lines in the config.yml file. Overall it's a fast, clean, little static CMS that would make a great base for something more ambitious.
 
-Using Netlify introduced me to some things I have never touched before: Static site generators, javascript templating engines, and the JAMstack. I'll be posting later about my experience building a JAMstack site completely from scratch.
+![Netlify CMS Editor](/static/img/cmspost.png "Netlify CMS Editor")
 
-It's very, very exciting to be working on something that will actually bring me closer to my goal rather than just sitting around thinking about it.
+There seems to be considerable hype around the concept of the JAMstack, so I'll give it some more attention in later blog posts as I work on another project I have in mind. For now it's serving it's purpose as the foundation for this simple blog.
